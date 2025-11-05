@@ -15,9 +15,9 @@ function miInformacion() {
   // TODO: Declara las variables nombre, edad y carrera
   // Ejemplo: const nombre = "Juan";
   
-  const nombre = "";
-  const edad = 0;
-  const carrera = "";
+  const nombre = "Isis Alejandra Moguel Ramirez";
+  const edad = 23;
+  const carrera = "TSU en Desarrollo de Software y Negocios Digitales";
   
   return { nombre, edad, carrera };
 }
