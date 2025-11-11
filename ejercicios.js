@@ -1,6 +1,6 @@
 // FUNDAMENTOS DE PROGRAMACIÃ“N - PRÃCTICA
-// Nombre del estudiante: _________________
-// Fecha: _________________
+// Nombre del estudiante: Isis Alejandra Moguel Ramirez
+// Fecha: 11 noviembre 2025
 
 // ============================================
 // SECCIÃ“N 1: VARIABLES Y TIPOS DE DATOS (10 puntos)
@@ -106,7 +106,8 @@ function evaluarNota(nota) {
  */
 function mayorDeTres(a, b, c) {
   // TODO: Encuentra y retorna el mayor de los tres nÃºmeros
-  return 0;
+  mayor = Math.max(a, b, c);
+  return mayor;
 }
 
 /**
